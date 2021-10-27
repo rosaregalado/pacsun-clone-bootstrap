@@ -1,0 +1,15 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.hero-background-img {
+  /* content: ""; */
+  /* position: static; */
+  background-image: url("hero.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* padding-top: 200px;   */
+  padding-bottom: 700px;
+}
+.p-1 {
+  color: #8860E1;
+  background-color: #F0D7C1;
+}
